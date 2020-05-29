@@ -2,7 +2,7 @@
   "name": "rickandmorty",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shashi2030.github.io/rickyandmonty-react/",
+  "homepage": "https://shashi2030.github.io/rickyandmorty-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
