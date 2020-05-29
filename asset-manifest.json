@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rickyandmorty-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/rickyandmorty-react/static/js/main.0b7d7c9a.chunk.js",
-    "main.js.map": "/rickyandmorty-react/static/js/main.0b7d7c9a.chunk.js.map",
+    "main.css": "/rickyandmorty-react/static/css/main.f80badc8.chunk.css",
+    "main.js": "/rickyandmorty-react/static/js/main.74373045.chunk.js",
+    "main.js.map": "/rickyandmorty-react/static/js/main.74373045.chunk.js.map",
     "runtime-main.js": "/rickyandmorty-react/static/js/runtime-main.a27cc204.js",
     "runtime-main.js.map": "/rickyandmorty-react/static/js/runtime-main.a27cc204.js.map",
-    "static/js/2.d2f810eb.chunk.js": "/rickyandmorty-react/static/js/2.d2f810eb.chunk.js",
-    "static/js/2.d2f810eb.chunk.js.map": "/rickyandmorty-react/static/js/2.d2f810eb.chunk.js.map",
+    "static/js/2.1ee2a1a8.chunk.js": "/rickyandmorty-react/static/js/2.1ee2a1a8.chunk.js",
+    "static/js/2.1ee2a1a8.chunk.js.map": "/rickyandmorty-react/static/js/2.1ee2a1a8.chunk.js.map",
     "index.html": "/rickyandmorty-react/index.html",
-    "precache-manifest.eaf63a8a585612cbe552fc602650a235.js": "/rickyandmorty-react/precache-manifest.eaf63a8a585612cbe552fc602650a235.js",
+    "precache-manifest.7d11aece518982a6956db57c3c345341.js": "/rickyandmorty-react/precache-manifest.7d11aece518982a6956db57c3c345341.js",
     "service-worker.js": "/rickyandmorty-react/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/rickyandmorty-react/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d2f810eb.chunk.js.LICENSE.txt": "/rickyandmorty-react/static/js/2.d2f810eb.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/rickyandmorty-react/static/media/logo.5d5d9eef.svg"
+    "static/css/main.f80badc8.chunk.css.map": "/rickyandmorty-react/static/css/main.f80badc8.chunk.css.map",
+    "static/js/2.1ee2a1a8.chunk.js.LICENSE.txt": "/rickyandmorty-react/static/js/2.1ee2a1a8.chunk.js.LICENSE.txt",
+    "static/media/logout.svg": "/rickyandmorty-react/static/media/logout.e75855a1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a27cc204.js",
-    "static/js/2.d2f810eb.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0b7d7c9a.chunk.js"
+    "static/js/2.1ee2a1a8.chunk.js",
+    "static/css/main.f80badc8.chunk.css",
+    "static/js/main.74373045.chunk.js"
   ]
 }
