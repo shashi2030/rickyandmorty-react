@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.5d1bf17d.chunk.js",
-    "main.js.map": "/static/js/main.5d1bf17d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cefd1b74.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cefd1b74.js.map",
-    "static/js/2.29f2ad0a.chunk.js": "/static/js/2.29f2ad0a.chunk.js",
-    "static/js/2.29f2ad0a.chunk.js.map": "/static/js/2.29f2ad0a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6789a0dfbae5883f9608e44a880c142f.js": "/precache-manifest.6789a0dfbae5883f9608e44a880c142f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.29f2ad0a.chunk.js.LICENSE.txt": "/static/js/2.29f2ad0a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/rickyandmonty-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rickyandmonty-react/static/js/main.32272022.chunk.js",
+    "main.js.map": "/rickyandmonty-react/static/js/main.32272022.chunk.js.map",
+    "runtime-main.js": "/rickyandmonty-react/static/js/runtime-main.fc4de7d5.js",
+    "runtime-main.js.map": "/rickyandmonty-react/static/js/runtime-main.fc4de7d5.js.map",
+    "static/js/2.29f2ad0a.chunk.js": "/rickyandmonty-react/static/js/2.29f2ad0a.chunk.js",
+    "static/js/2.29f2ad0a.chunk.js.map": "/rickyandmonty-react/static/js/2.29f2ad0a.chunk.js.map",
+    "index.html": "/rickyandmonty-react/index.html",
+    "precache-manifest.020141c244b0751ae45620a701c292cb.js": "/rickyandmonty-react/precache-manifest.020141c244b0751ae45620a701c292cb.js",
+    "service-worker.js": "/rickyandmonty-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rickyandmonty-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.29f2ad0a.chunk.js.LICENSE.txt": "/rickyandmonty-react/static/js/2.29f2ad0a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rickyandmonty-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cefd1b74.js",
+    "static/js/runtime-main.fc4de7d5.js",
     "static/js/2.29f2ad0a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5d1bf17d.chunk.js"
+    "static/js/main.32272022.chunk.js"
   ]
 }
